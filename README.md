@@ -14,9 +14,13 @@ Resource From WebsiteSetup
 
 # Course Links
 
-Udemy https://www.udemy.com/share/101qVA3@F73VOtN6OLivWMXaatdg68KKH_uqTJYzEueBeWIRnW7rZkiXv9IdWlmWKPZ8BtJwoA==/
-Sololearn https://www.sololearn.com/Course/SQL/?ref=app
+Udemy 
+https://www.udemy.com/share/101qVA3@F73VOtN6OLivWMXaatdg68KKH_uqTJYzEueBeWIRnW7rZkiXv9IdWlmWKPZ8BtJwoA==/
+Sololearn
+https://www.sololearn.com/Course/SQL/?ref=app
 # Certificate Links
 
-Udemy https://www.udemy.com/course/introduction-to-databases-and-sql-querying/learn/lecture/3250986?start=15#content
-Sololearn  https://www.sololearn.com/certificates/course/en/16346960/1060/landscape/png
+Udemy
+https://www.udemy.com/course/introduction-to-databases-and-sql-querying/learn/lecture/3250986?start=15#content
+Sololearn 
+https://www.sololearn.com/certificates/course/en/16346960/1060/landscape/png
