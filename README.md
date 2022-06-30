@@ -22,5 +22,7 @@ https://www.sololearn.com/Course/SQL/?ref=app
 
 Udemy
 https://www.udemy.com/course/introduction-to-databases-and-sql-querying/learn/lecture/3250986?start=15#content
+
+
 Sololearn 
 https://www.sololearn.com/certificates/course/en/16346960/1060/landscape/png
